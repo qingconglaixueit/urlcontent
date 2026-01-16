@@ -1,0 +1,17 @@
+# macOS system files
+__MACOSX/
+.DS_Store
+._*
+
+# Node modules
+node_modules/
+
+# Compiled files
+*.exe
+*.dll
+*.so
+bin/server
+
+# IDE files
+.vscode/
+.idea/
